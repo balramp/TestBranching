@@ -28,6 +28,8 @@ class ViewController: UIViewController {
         print("Prakash function feature 1")
     }
 
-
+    func prakashFeature2() {
+        print("Prakash feature 2")
+    }
 }
 
