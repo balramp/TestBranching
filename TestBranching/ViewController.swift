@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     func prakashFunc() {
         print("Prakash method...")
     }
+    
+    func prakashFuncFeature1() {
+        print("Prakash function feature 1")
+    }
 
 
 }
