@@ -24,6 +24,8 @@ class ViewController: UIViewController {
         print("Prakash method...")
     }
 
-
+    func prakashFeature2() {
+        print("Prakash feature 2")
+    }
 }
 
